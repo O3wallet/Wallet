@@ -30,7 +30,7 @@
         <dependency>
             <groupId>com.thoughtworks.xstream</groupId>
             <artifactId>xstream</artifactId>
-            <version>1.4.10</version>
+            <version>1.4.11</version>
         </dependency>
         <dependency>
             <groupId>org.jdatepicker</groupId>
@@ -151,7 +151,7 @@
         <dependency>
             <groupId>org.knowm.xchange</groupId>
             <artifactId>xchange-examples</artifactId>
-            <version>4.3.10</version>
+            <version>4.3.15</version>
         </dependency>
     </dependencies>
     
